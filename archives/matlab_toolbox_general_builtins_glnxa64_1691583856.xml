@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_general_builtins</componentBaseName>
+    <componentFileName>matlab_toolbox_general_builtins_glnxa64_1691583856.enc</componentFileName>
+    <componentName>matlab_toolbox_general_builtins_glnxa64</componentName>
+    <componentVersion>1691583856</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>15</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>511441</size>
+    <type/>
+    <uncompressedBytes>1482489</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matfile_hdf5/hdf5_impl</componentBaseName>
+    <componentFileName>matfile_hdf5/hdf5_impl_glnxa64_1670585394.enc</componentFileName>
+    <componentName>matfile_hdf5/hdf5_impl_glnxa64</componentName>
+    <componentVersion>1670585394</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>46449</size>
+    <type/>
+    <uncompressedBytes>86498</uncompressedBytes>
+  </component>
+</componentData>

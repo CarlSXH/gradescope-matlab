@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>graphics/emf</componentBaseName>
+    <componentFileName>graphics/emf_glnxa64_1668912524.enc</componentFileName>
+    <componentName>graphics/emf_glnxa64</componentName>
+    <componentVersion>1668912524</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>31969</size>
+    <type/>
+    <uncompressedBytes>60912</uncompressedBytes>
+  </component>
+</componentData>

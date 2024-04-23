@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_coder</componentBaseName>
+    <componentFileName>shared_coder_glnxa64_1692755600.enc</componentFileName>
+    <componentName>shared_coder_glnxa64</componentName>
+    <componentVersion>1692755600</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>485042</size>
+    <type/>
+    <uncompressedBytes>1451322</uncompressedBytes>
+  </component>
+</componentData>

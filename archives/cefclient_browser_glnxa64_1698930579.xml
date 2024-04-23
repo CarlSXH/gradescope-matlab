@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>cefclient_browser</componentBaseName>
+    <componentFileName>cefclient_browser_glnxa64_1698930579.enc</componentFileName>
+    <componentName>cefclient_browser_glnxa64</componentName>
+    <componentVersion>1698930579</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>12</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>1765494</size>
+    <type/>
+    <uncompressedBytes>6341516</uncompressedBytes>
+  </component>
+</componentData>

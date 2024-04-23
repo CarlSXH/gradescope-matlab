@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mw_java_mlwebservices</componentBaseName>
+    <componentFileName>mw_java_mlwebservices_ko_KR_1668905098.enc</componentFileName>
+    <componentName>mw_java_mlwebservices_ko_KR</componentName>
+    <componentVersion>1668905098</componentVersion>
+    <contentType>common</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale>ko_KR</locale>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maca64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>10451</size>
+    <type/>
+    <uncompressedBytes>1304</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab/httpproxy</componentBaseName>
+    <componentFileName>matlab/httpproxy_glnxa64_1675189631.enc</componentFileName>
+    <componentName>matlab/httpproxy_glnxa64</componentName>
+    <componentVersion>1675189631</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>46921</size>
+    <type/>
+    <uncompressedBytes>90465</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>stateflow_resources</componentBaseName>
+    <componentFileName>stateflow_resources_ja_JP_1696452738.enc</componentFileName>
+    <componentName>stateflow_resources_ja_JP</componentName>
+    <componentVersion>1696452738</componentVersion>
+    <contentType>common</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale>ja_JP</locale>
+    <locationId>1</locationId>
+    <numFiles>34</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maca64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>158294</size>
+    <type/>
+    <uncompressedBytes>682387</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_asynciolib</componentBaseName>
+    <componentFileName>shared_asynciolib_glnxa64_1691584078.enc</componentFileName>
+    <componentName>shared_asynciolib_glnxa64</componentName>
+    <componentVersion>1691584078</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>277714</size>
+    <type/>
+    <uncompressedBytes>901035</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,8 @@
+{
+    "features": [{
+        "FCtrlState": "Off",
+        "defaultValue": 0,
+        "name": "CEF.EXCHANGE",
+        "type": "PROCESS"
+    }]
+}

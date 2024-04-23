@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>productgroup_search_doc_zh_CN</componentBaseName>
+    <componentFileName>productgroup_search_doc_zh_CN_common_1680528899.enc</componentFileName>
+    <componentName>productgroup_search_doc_zh_CN_common</componentName>
+    <componentVersion>1680528899</componentVersion>
+    <contentType>doc_zh</contentType>
+    <demo>0</demo>
+    <doc>1</doc>
+    <doc_build>0</doc_build>
+    <doc_search>1</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale>zh_CN</locale>
+    <locationId>1</locationId>
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maca64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>12720</size>
+    <type/>
+    <uncompressedBytes>3628</uncompressedBytes>
+  </component>
+</componentData>

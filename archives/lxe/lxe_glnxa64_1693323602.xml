@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>lxe/lxe</componentBaseName>
+    <componentFileName>lxe/lxe_glnxa64_1693323602.enc</componentFileName>
+    <componentName>lxe/lxe_glnxa64</componentName>
+    <componentVersion>1693323602</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>16</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>24035160</size>
+    <type/>
+    <uncompressedBytes>70394459</uncompressedBytes>
+  </component>
+</componentData>

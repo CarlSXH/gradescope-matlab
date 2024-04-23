@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector/us_container</componentBaseName>
+    <componentFileName>connector/us_container_glnxa64_1668904378.enc</componentFileName>
+    <componentName>connector/us_container_glnxa64</componentName>
+    <componentVersion>1668904378</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>58027</size>
+    <type/>
+    <uncompressedBytes>122880</uncompressedBytes>
+  </component>
+</componentData>

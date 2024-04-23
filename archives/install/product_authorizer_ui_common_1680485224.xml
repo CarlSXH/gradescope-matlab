@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>install/product_authorizer_ui</componentBaseName>
+    <componentFileName>install/product_authorizer_ui_common_1680485224.enc</componentFileName>
+    <componentName>install/product_authorizer_ui_common</componentName>
+    <componentVersion>1680485224</componentVersion>
+    <contentType>common</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>249</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maca64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>1212349</size>
+    <type/>
+    <uncompressedBytes>3224903</uncompressedBytes>
+  </component>
+</componentData>

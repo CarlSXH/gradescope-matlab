@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpoint_core</componentBaseName>
+    <componentFileName>fixedpoint_core_glnxa64_1703786907.enc</componentFileName>
+    <componentName>fixedpoint_core_glnxa64</componentName>
+    <componentVersion>1703786907</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>8</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>3082662</size>
+    <type/>
+    <uncompressedBytes>10200226</uncompressedBytes>
+  </component>
+</componentData>

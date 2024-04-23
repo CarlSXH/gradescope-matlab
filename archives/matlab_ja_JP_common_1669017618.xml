@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_ja_JP</componentBaseName>
+    <componentFileName>matlab_ja_JP_common_1669017618.enc</componentFileName>
+    <componentName>matlab_ja_JP_common</componentName>
+    <componentVersion>1669017618</componentVersion>
+    <contentType>common</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maca64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>9711</size>
+    <type/>
+    <uncompressedBytes>6</uncompressedBytes>
+  </component>
+</componentData>

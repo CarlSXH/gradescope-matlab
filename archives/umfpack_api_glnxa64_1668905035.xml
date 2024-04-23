@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>umfpack_api</componentBaseName>
+    <componentFileName>umfpack_api_glnxa64_1668905035.enc</componentFileName>
+    <componentName>umfpack_api_glnxa64</componentName>
+    <componentVersion>1668905035</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>13660</size>
+    <type/>
+    <uncompressedBytes>10736</uncompressedBytes>
+  </component>
+</componentData>

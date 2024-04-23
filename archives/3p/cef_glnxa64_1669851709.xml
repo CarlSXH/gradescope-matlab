@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/cef</componentBaseName>
+    <componentFileName>3p/cef_glnxa64_1669851709.enc</componentFileName>
+    <componentName>3p/cef_glnxa64</componentName>
+    <componentVersion>1669851709</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>68</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>104583716</size>
+    <type/>
+    <uncompressedBytes>261679388</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>agent/productversion_matlab_api</componentBaseName>
+    <componentFileName>agent/productversion_matlab_api_glnxa64_1691583934.enc</componentFileName>
+    <componentName>agent/productversion_matlab_api_glnxa64</componentName>
+    <componentVersion>1691583934</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>62770</size>
+    <type/>
+    <uncompressedBytes>128943</uncompressedBytes>
+  </component>
+</componentData>

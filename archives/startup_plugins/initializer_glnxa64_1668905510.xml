@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>startup_plugins/initializer</componentBaseName>
+    <componentFileName>startup_plugins/initializer_glnxa64_1668905510.enc</componentFileName>
+    <componentName>startup_plugins/initializer_glnxa64</componentName>
+    <componentVersion>1668905510</componentVersion>
+    <contentType>glnxa64</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>210200</size>
+    <type/>
+    <uncompressedBytes>578120</uncompressedBytes>
+  </component>
+</componentData>

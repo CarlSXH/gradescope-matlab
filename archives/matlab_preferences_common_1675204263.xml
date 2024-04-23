@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_preferences</componentBaseName>
+    <componentFileName>matlab_preferences_common_1675204263.enc</componentFileName>
+    <componentName>matlab_preferences_common</componentName>
+    <componentVersion>1675204263</componentVersion>
+    <contentType>common</contentType>
+    <demo>0</demo>
+    <doc>0</doc>
+    <doc_build>0</doc_build>
+    <doc_search>0</doc_search>
+    <gpu>0</gpu>
+    <instrset>0</instrset>
+    <locale/>
+    <locationId>1</locationId>
+    <numFiles>26</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maca64</platform>
+      <platform>maci64</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2023a</releaseFamily>
+    <size>457632</size>
+    <type/>
+    <uncompressedBytes>1837331</uncompressedBytes>
+  </component>
+</componentData>
